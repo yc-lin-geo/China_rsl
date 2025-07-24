@@ -2,7 +2,7 @@
 
 Yucheng Lin, Robert E. Kopp, Haixian Xiong, Fiona D. Hibbert, Zhuo Zheng, Fengling Yu, Praveen Kumar, Sönke Dangendorf, Hailin Yi and Yaze Zhang
 
-yc.lin@csiro.au
+yucheng.lin@csiro.au
 
 ## Paper Abstract
 
