@@ -8,21 +8,6 @@ yucheng.lin@csiro.au
 
 Quantifying physical mechanisms driving sea-level change—including global mean sea level (GMSL) and regional-to-local components (i.e., sea level budget)—is essential for reliable future projections and effective coastal management. While previous research has attempted to resolve China’s sea-level budget from the 1950s, these studies capture short timescales and lack the long-term context necessary to fully assess modern sea-level rise in southeastern China—one of the world’s most densely populated regions with immense socioeconomic importance. Here we show that GMSL followed three distinct stages from 11,700 years before present (BP) to the modern day: (1) rapid early Holocene rise driven by the deglacial melt of land ice, (2) 4000 years of stability from ~4200 BP to mid-19th century when regional processes dominated sea-level change, and (3) accelerating rise from the mid-19th century. Our results arise from spatiotemporal hierarchical modeling of geological sea-level proxies and tide gauge data to produce site-specific sea-level budget estimates with uncertainty quantification. It is extremely likely (P$\ge$0.95) that the GMSL rise rate since 1900 (1.51 +/- 0.16 mm/yr, 1sigma) has exceeded any century over at least the past four millennia. Moreover, our analysis indicates that at least 94\% of rapid modern urban subsidence is attributable to anthropogenic activities, with localized subsidence rates often exceeding GMSL rise. Such concurrent acceleration of global sea-level rise and rapid localized subsidence has not been observed in our Holocene geological record.
 
-## Reference
-
-```bibtex
-@article{lin2025modern,
-  title={Modern sea-level rise breaks 4,000-year stability in southeastern China},
-  author={Lin, Yucheng and Kopp, Robert E. and Xiong, Haixian and Hibbert, Fiona D. and Zheng, Zhuo and Yu, Fengling and Kumar, Praveen and Dangendorf, S{\"o}nke and Yi, Hailin and Zhang, Yaze},
-  journal={Nature},
-  year={2025},
-  month={October},
-  day={15},
-  doi={10.1038/s41586-025-09600-z},
-  url={https://doi.org/10.1038/s41586-025-09600-z}
-}
-```
-
 
 ## Code environment
 
@@ -49,6 +34,23 @@ conda activate ve3PaleoSTeHM
 4. - **[Holocene sea-level budget reconstruction results](notebooks/Budget_recon.ipynb)** - A notebook showing renstructed sea-level budget results based on hierarchical modeling presented in this study.
 
 5. - **[Analytical model for sterodynamic sea level at Hangzhou](notebooks/Analytical_SDSL.ipynb)** - A notebook that use an analytical model to investigate river discharge impact on sterodynamic sea level at Hangzhou. 
+
+
+
+## Reference
+
+```bibtex
+@article{lin2025modern,
+  title={Modern sea-level rise breaks 4,000-year stability in southeastern China},
+  author={Lin, Yucheng and Kopp, Robert E. and Xiong, Haixian and Hibbert, Fiona D. and Zheng, Zhuo and Yu, Fengling and Kumar, Praveen and Dangendorf, S{\"o}nke and Yi, Hailin and Zhang, Yaze},
+  journal={Nature},
+  year={2025},
+  month={October},
+  day={15},
+  doi={10.1038/s41586-025-09600-z},
+  url={https://doi.org/10.1038/s41586-025-09600-z}
+}
+```
 
 ## License
 
